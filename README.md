@@ -1,5 +1,4 @@
-<h1>Hello</h1>
-
+<h1>Due to some problem this file was not uploaded with the actual project. The Actual project name is React-Django-Todo.</h1>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
